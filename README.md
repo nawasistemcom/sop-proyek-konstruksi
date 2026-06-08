@@ -77,6 +77,35 @@ https://nawasistem.com/blog/
 - Sistem Kerja Modern
 - Admin Proyek Perumahan
 
+  ## Artikel Terkait
+
+- Cara Membuat SOP Proyek Konstruksi yang Rapi dan Mudah Diterapkan
+  https://nawasistem.com/cara-membuat-sop-proyek-konstruksi-yang-rapi-dan-mudah-diterapkan/
+
+- SOP Pengawas Proyek dari Awal Hingga Serah Terima
+  (tambahkan setelah artikel publish)
+
+- SOP Quality Control Rumah Tinggal
+  (tambahkan setelah artikel publish)
+
+- Sistem Proyek Modern: Kenapa Developer & Kontraktor Mulai Meninggalkan Cara Manual
+  https://nawasistem.com/sistem-proyek-modern-kenapa-developer-dan-kontraktor-mulai-meninggalkan-cara-manual/
+
+## Produk Terkait
+
+- Template SOP Proyek Lengkap
+  https://nawasistem.com/template-sop-proyek-lengkap/
+
+- Panduan Lapangan Pengawas Proyek
+  https://nawasistem.com/panduan-lapangan-pengawas-proyek/
+
+- Quality Control Handal
+  https://nawasistem.com/quality-control-handal/
+
+## Website Resmi
+
+https://nawasistem.com
+
 ## License
 
 For educational and professional construction project management purposes.
